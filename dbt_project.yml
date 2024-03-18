@@ -1,5 +1,6 @@
 
 name: 'my-dbt-project'
-version: '2.0'
+config-version: 2
+version: '0.1'
 
 model-paths: ["models"]
