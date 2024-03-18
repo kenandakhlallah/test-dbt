@@ -1,5 +1,5 @@
 
-name: 'my-dbt-project'
+name: 'my_dbt_project'
 config-version: 2
 version: '0.1'
 
